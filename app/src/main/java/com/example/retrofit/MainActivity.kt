@@ -17,6 +17,11 @@ import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
 
+//Pengerjaan terakhir : 30/07/2025 16:30
+//NIM                 : 10122334
+//NAMA                : Berry Abdul Ghany
+//KELAS               : PA-4
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var adapter: UserAdapter
